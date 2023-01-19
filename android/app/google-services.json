@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824456819685",
+    "project_id": "soccerprediction-3c240",
+    "storage_bucket": "soccerprediction-3c240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824456819685:android:e1f072b3a2136e0298b50c",
+        "android_client_info": {
+          "package_name": "com.soccerprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824456819685-fu6fml93k9fdo5abo8om8u0so16ku0ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzFJTgkkUHhfJjq8Myzq34RyV68YfdjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824456819685-fu6fml93k9fdo5abo8om8u0so16ku0ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
